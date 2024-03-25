@@ -1,4 +1,4 @@
-# ALX  Configuration management Project
+ALX  Configuration management Project
 
 * **0. Create a file**
   * [0-create_a_file.pp](./0-create_a_file.pp): Puppet manifest file that
