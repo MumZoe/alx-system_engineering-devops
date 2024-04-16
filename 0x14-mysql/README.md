@@ -1,10 +1,4 @@
-# Mysql
-
-This project involved learning how to configure database servers in a
-primary-replica model. I configured the two servers provided to me by
-ALX in a MySQL primary-replica setup with a dummy database, and wrote
-a Bash script to automate generation of database backups.
-
+# 0x14. MySQL ALX Project
 ## Tasks :page_with_curl:
 
 * [4-mysql_configuration_primary](./4-mysql_configuration_primary): The MySQL
